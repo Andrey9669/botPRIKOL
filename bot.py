@@ -11,7 +11,7 @@ HELP_COMMAND = """
 /picture = СЕКРЕТНАЯ КАРТИНКА!!!
 """
 
-bot = Bot(token)
+bot = Bot("8378828894:AAFr-rHjk9R1rmIOXhErKITmj2vMervKunI")
 dp = Dispatcher()
 
 
